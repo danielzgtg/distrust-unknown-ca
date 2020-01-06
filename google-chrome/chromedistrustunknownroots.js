@@ -5,6 +5,7 @@ let r = d(a, b);
 return r && r.shadowRoot;
 };
 let l = [
+'addtrust',
 'amazon',
 'baltimore',
 'comodo',
@@ -16,8 +17,10 @@ let l = [
 'godaddy',
 'google',
 'network solutions',
+'starfield',
 'thawte',
 'go daddy',
+'usertrust',
 'verisign',
 ];
 let t = (x) => {
